@@ -1,0 +1,306 @@
+2025-03-02 19:44:38.334 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.359 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.364 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.368 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.370 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.374 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.388 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.426 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.433 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.435 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T19:44:38.435302800
+2025-03-02 19:44:38.438 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.444 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.450 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.453 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with null or empty title
+2025-03-02 19:44:38.455 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T19:44:38.455188400
+2025-03-02 19:44:38.460 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.462 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with null teacher
+2025-03-02 19:44:38.464 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with null or empty title
+2025-03-02 19:44:38.464 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with null deadline
+2025-03-02 19:44:38.468 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.470 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.475 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:38.768 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: TestPU]
+2025-03-02 19:44:38.899 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.7.Final
+2025-03-02 19:44:38.910 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2025-03-02 19:44:39.348 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-03-02 19:44:39.350 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.h2.Driver
+2025-03-02 19:44:39.350 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:44:39.350 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=sa}
+2025-03-02 19:44:39.350 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-03-02 19:44:39.362 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 1 (min=1)
+2025-03-02 19:44:39.948 [main] INFO  org.hibernate.orm.beans - HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2025-03-02 19:44:40.381 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2025-03-02 19:44:41.853 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-03-02 19:44:41.881 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6fd1ea75] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:41.906 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3a588b5f] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:42.788 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:43.628 [main] DEBUG com.submission.model.Assignment - Created new assignment: Original Title
+2025-03-02 19:44:43.693 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:43.732 [main] DEBUG com.submission.model.Assignment - Created new assignment: Assignment 1
+2025-03-02 19:44:43.743 [main] DEBUG com.submission.model.Assignment - Created new assignment: Assignment 2
+2025-03-02 19:44:43.816 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:43.866 [main] DEBUG com.submission.model.Assignment - Created new assignment: Future Assignment
+2025-03-02 19:44:43.910 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:43.948 [main] DEBUG com.submission.model.Assignment - Created new assignment: Assignment 1
+2025-03-02 19:44:43.949 [main] DEBUG com.submission.model.Assignment - Created new assignment: Assignment 2
+2025-03-02 19:44:44.014 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:44.030 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1ddba7a0] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:44.066 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:44:44.110 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: TestPU]
+2025-03-02 19:44:44.282 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-03-02 19:44:44.282 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.h2.Driver
+2025-03-02 19:44:44.282 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:44:44.282 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=sa}
+2025-03-02 19:44:44.282 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-03-02 19:44:44.282 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 1 (min=1)
+2025-03-02 19:44:44.308 [main] INFO  org.hibernate.orm.beans - HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2025-03-02 19:44:44.513 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2025-03-02 19:44:44.803 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-03-02 19:44:44.803 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@61d61b0e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:44.810 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3c2188f] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:44.858 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:44.879 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:44.912 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-02-23T19:44:44.912374400
+2025-03-02 19:44:44.928 [main] DEBUG com.submission.model.Assignment - Created new assignment: Original
+2025-03-02 19:44:44.958 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:44.980 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-02-23T19:44:44.980485900
+2025-03-02 19:44:44.998 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-02-23T19:44:44.997706800
+2025-03-02 19:44:45.010 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:45.033 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:45.075 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:45.099 [main] DEBUG com.submission.model.Assignment - Created new assignment: Assignment 1
+2025-03-02 19:44:45.099 [main] DEBUG com.submission.model.Assignment - Created new assignment: Assignment 2
+2025-03-02 19:44:45.118 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@48788853] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:45.127 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:44:45.167 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: TestPU]
+2025-03-02 19:44:45.200 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-03-02 19:44:45.200 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.h2.Driver
+2025-03-02 19:44:45.204 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:44:45.204 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=sa}
+2025-03-02 19:44:45.204 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-03-02 19:44:45.204 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 1 (min=1)
+2025-03-02 19:44:45.208 [main] INFO  org.hibernate.orm.beans - HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2025-03-02 19:44:45.260 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2025-03-02 19:44:45.429 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-03-02 19:44:45.429 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4d7f9b33] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:45.429 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@782e0844] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:47.344 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@30a6984c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:47.348 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:44:47.361 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: TestPU]
+2025-03-02 19:44:47.378 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-03-02 19:44:47.382 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.h2.Driver
+2025-03-02 19:44:47.382 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:44:47.382 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=sa}
+2025-03-02 19:44:47.382 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-03-02 19:44:47.382 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 1 (min=1)
+2025-03-02 19:44:47.386 [main] INFO  org.hibernate.orm.beans - HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2025-03-02 19:44:47.422 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2025-03-02 19:44:47.559 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-03-02 19:44:47.559 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1ec09a68] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:47.559 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7da9b32c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:47.608 [main] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 23505, SQLState: 23505
+2025-03-02 19:44:47.608 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Unique index or primary key violation: "PUBLIC.CONSTRAINT_INDEX_4 ON PUBLIC.USERS(EMAIL NULLS FIRST) VALUES ( /* 3 */ 'same@example.com' )"; SQL statement:
+insert into users (email,first_name,last_name,password_hash,role,id) values (?,?,?,?,'TEACHER',default) [23505-224]
+2025-03-02 19:44:47.670 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4d529bc0] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:47.675 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:44:47.680 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:47.681 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:47.687 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:47.690 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:47.690 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:47.718 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: TestPU]
+2025-03-02 19:44:47.738 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-03-02 19:44:47.738 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.h2.Driver
+2025-03-02 19:44:47.738 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:44:47.747 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=sa}
+2025-03-02 19:44:47.747 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-03-02 19:44:47.747 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 1 (min=1)
+2025-03-02 19:44:47.749 [main] INFO  org.hibernate.orm.beans - HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2025-03-02 19:44:47.788 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2025-03-02 19:44:47.910 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-03-02 19:44:47.912 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1ced1d14] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:47.912 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@237b54bc] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:47.945 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:47.968 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:47.980 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:47.998 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:48.032 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:48.067 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:44:48.071 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3c7f8c25] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:44:48.078 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:44:48.080 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:44:48.104 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:44:48.108 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:44:48.114 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:47:05.871 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: TestPU]
+2025-03-02 19:47:06.348 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.7.Final
+2025-03-02 19:47:06.360 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2025-03-02 19:47:07.072 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-03-02 19:47:07.079 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.h2.Driver
+2025-03-02 19:47:07.080 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:47:07.081 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=sa}
+2025-03-02 19:47:07.081 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-03-02 19:47:07.097 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 1 (min=1)
+2025-03-02 19:47:07.871 [main] INFO  org.hibernate.orm.beans - HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2025-03-02 19:47:08.609 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2025-03-02 19:47:10.306 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-03-02 19:47:10.329 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@bb8ead8] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:47:10.344 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@394fb736] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:47:11.011 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-02-23T19:47:11.008745100
+2025-03-02 19:47:11.064 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-02-23T19:47:11.063169600
+2025-03-02 19:47:11.081 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-02-23T19:47:11.081319200
+2025-03-02 19:47:11.091 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3c9f4376] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:47:11.104 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:47:11.113 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:47:11.126 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:47:11.132 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:47:11.165 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:47:11.186 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.194 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.195 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T19:47:11.195453300
+2025-03-02 19:47:11.203 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.208 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.218 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.225 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.228 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.234 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.239 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.245 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.253 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.256 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.259 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.263 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:47:11.267 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:01.875 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: TestPU]
+2025-03-02 19:54:02.031 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.7.Final
+2025-03-02 19:54:02.037 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2025-03-02 19:54:02.445 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-03-02 19:54:02.445 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.h2.Driver
+2025-03-02 19:54:02.445 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:54:02.445 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=sa}
+2025-03-02 19:54:02.445 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-03-02 19:54:02.456 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 1 (min=1)
+2025-03-02 19:54:02.918 [main] INFO  org.hibernate.orm.beans - HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2025-03-02 19:54:03.345 [main] INFO  o.h.b.i.BytecodeProviderInitiator - HHH000021: Bytecode provider name : bytebuddy
+2025-03-02 19:54:04.492 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-03-02 19:54:04.514 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1b1252c8] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:54:04.524 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4fc6e776] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:54:05.118 [main] DEBUG com.submission.model.Assignment - Created new assignment: Past
+2025-03-02 19:54:05.118 [main] DEBUG com.submission.model.Assignment - Created new assignment: Future
+2025-03-02 19:54:05.510 [main] DEBUG com.submission.model.Assignment - Created new assignment: Past
+2025-03-02 19:54:05.511 [main] DEBUG com.submission.model.Assignment - Created new assignment: Future
+2025-03-02 19:54:05.571 [main] DEBUG com.submission.model.Assignment - Created new assignment: Past
+2025-03-02 19:54:05.571 [main] DEBUG com.submission.model.Assignment - Created new assignment: Future
+2025-03-02 19:54:05.604 [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6723e6b3] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-03-02 19:54:05.613 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-03-02 19:54:05.624 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:54:05.645 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:54:05.646 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:54:05.678 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:54:05.689 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.698 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.700 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T19:54:05.700572600
+2025-03-02 19:54:05.706 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.713 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.724 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.730 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.732 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.734 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.737 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.746 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.754 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.762 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.768 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.773 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:05.780 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:49.987 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:54:50.042 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:54:50.047 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:54:50.081 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:54:50.102 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.115 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.116 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T19:54:50.116610600
+2025-03-02 19:54:50.125 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.135 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.149 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.162 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.171 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.181 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.187 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.219 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.232 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.246 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.252 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.266 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:54:50.276 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.257 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:58:21.274 [main] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.274 [main] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.276 [main] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.276 [main] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.292 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:58:21.292 [main] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.292 [main] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.300 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-5] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-4] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-5] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-3] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-2] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-6] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-3] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-7] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-2] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-1] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-8] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-4] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.307 [pool-1-thread-7] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.307 [pool-1-thread-8] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.306 [pool-1-thread-6] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.307 [pool-1-thread-9] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.307 [pool-1-thread-10] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.307 [pool-1-thread-1] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.307 [pool-1-thread-10] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.307 [pool-1-thread-9] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.318 [main] DEBUG com.submission.model.Assignment - Created new assignment: Integration Test
+2025-03-02 19:58:21.318 [main] DEBUG com.submission.model.Assignment - Added submission to assignment: Integration Test
+2025-03-02 19:58:21.318 [main] DEBUG com.submission.model.Assignment - Added result to assignment: Integration Test
+2025-03-02 19:58:21.333 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.335 [main] DEBUG com.submission.model.Assignment - Added result to assignment: Test Assignment
+2025-03-02 19:58:21.335 [main] DEBUG com.submission.model.Assignment - Added result to assignment: Test Assignment
+2025-03-02 19:58:21.335 [main] DEBUG com.submission.model.Assignment - Added result to assignment: Test Assignment
+2025-03-02 19:58:21.336 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.337 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T19:58:21.337996200
+2025-03-02 19:58:21.358 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.359 [main] DEBUG com.submission.model.Assignment - Added result to assignment: Test Assignment
+2025-03-02 19:58:21.360 [main] DEBUG com.submission.model.Assignment - Removed result from assignment: Test Assignment
+2025-03-02 19:58:21.364 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.365 [main] DEBUG com.submission.model.Assignment - Added submission to assignment: Test Assignment
+2025-03-02 19:58:21.366 [main] DEBUG com.submission.model.Assignment - Removed submission from assignment: Test Assignment
+2025-03-02 19:58:21.372 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.376 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.378 [main] DEBUG com.submission.model.Assignment - Created new assignment: New Assignment
+2025-03-02 19:58:21.382 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.385 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.390 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.400 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.401 [main] DEBUG com.submission.model.Assignment - Created new assignment: New Assignment
+2025-03-02 19:58:21.404 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.408 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.409 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T19:58:21.409923700
+2025-03-02 19:58:21.416 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.419 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:21.421 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:27.992 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:28.001 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T19:58:28.001395300
+2025-03-02 19:58:28.035 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 19:58:28.036 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T19:58:28.036394900
+2025-03-02 20:00:29.497 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 20:00:29.513 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T20:00:29.513963800
+2025-03-02 20:00:29.572 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 20:00:29.573 [main] DEBUG com.submission.model.Assignment - Created new assignment: Past Assignment
+2025-03-02 20:00:37.830 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 20:00:37.840 [main] ERROR com.submission.model.Assignment - Attempted to create assignment with past deadline: 2025-03-01T20:00:37.839299800
+2025-03-02 20:02:27.328 [main] DEBUG com.submission.model.Assignment - Created new assignment: Test Assignment
+2025-03-02 20:02:27.355 [main] DEBUG com.submission.model.Assignment - Created new assignment: Past Assignment
